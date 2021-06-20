@@ -1,0 +1,14 @@
+
+.item{
+    border: 1px solid black;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width: 300px;
+    margin: 10px 20px;
+}
+
+button{
+    cursor: pointer;
+}
